@@ -1,8 +1,8 @@
-# Rock . Paper . scissors Game
+# Graphic Calculator
 
-Play Game with camputer . . . . . !
+Graphic Calculator with tkinter . . . . . !
 
-### Tested with : **Termux** ###
+### Tested with : **cmd, IDEs, linux** ###
 
 ## Installation :
 
@@ -14,7 +14,7 @@ pkg install python
 
 ```
 
-pip install colorama
+pip install tk
 
 ```
 
@@ -26,16 +26,18 @@ git clone https://github.com/Variable-py/Game/
 
 ```
 
-cd Game
+cd Graphic-Calculater
 
 ```
 
 ```
 
-python Game.py
+python Calculator.py
 
 ```
 
 ------------------
 
 - my Telegram : [@SirVariable](https://t.me/SirVariable)
+
+- my Instagram : [@SirVariable](https://www.instagram.com/sirvariable/)
