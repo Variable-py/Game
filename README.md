@@ -1,6 +1,6 @@
-# Graphic Calculator
+# Rock Paper Scissors Game
 
-Graphic Calculator with tkinter . . . . . !
+Rock Paper Scissors Game Script. . . . . !
 
 ### Tested with : **cmd, IDEs, linux** ###
 
@@ -14,7 +14,7 @@ pkg install python
 
 ```
 
-pip install tk
+
 
 ```
 
@@ -26,13 +26,13 @@ git clone https://github.com/Variable-py/Game/
 
 ```
 
-cd Graphic-Calculater
+cd Game
 
 ```
 
 ```
 
-python Calculator.py
+python Game.py
 
 ```
 
